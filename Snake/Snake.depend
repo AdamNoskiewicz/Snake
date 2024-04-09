@@ -1,0 +1,372 @@
+# depslib dependency file v1.0
+1682073203 source:d:\users\ul0265687\desktop\snake-official\snake\main.cpp
+	<iostream>
+	"coord.h"
+
+1682073178 d:\users\ul0265687\desktop\snake-official\snake\coord.h
+	<iostream>
+
+1682103856 source:c:\users\noski\desktop\snake-official\snake\main.cpp
+	<iostream>
+	"game.h"
+
+1682100036 c:\users\noski\desktop\snake-official\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1682102460 c:\users\noski\desktop\snake-official\snake\coord.h
+	<iostream>
+
+1682103406 c:\users\noski\desktop\snake-official\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682091921 source:c:\users\noski\desktop\snake-official\snake\coord.cpp
+	"coord.h"
+
+1682100883 source:c:\users\noski\desktop\snake-official\snake\map.cpp
+	"map.h"
+
+1682100036 source:c:\users\noski\desktop\snake-official\snake\pyton.cpp
+	"pyton.h"
+
+1682103991 source:c:\users\noski\desktop\snake-official\snake\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+
+1682103940 c:\users\noski\desktop\snake-official\snake\game.h
+	"map.h"
+
+1682091921 source:c:\users\noski\desktop\snake-official — kopia\snake\coord.cpp
+	"coord.h"
+
+1682102460 c:\users\noski\desktop\snake-official — kopia\snake\coord.h
+	<iostream>
+
+1682104171 source:c:\users\noski\desktop\snake-official — kopia\snake\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+
+1682103940 c:\users\noski\desktop\snake-official — kopia\snake\game.h
+	"map.h"
+
+1682103406 c:\users\noski\desktop\snake-official — kopia\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100036 c:\users\noski\desktop\snake-official — kopia\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1682103856 source:c:\users\noski\desktop\snake-official — kopia\snake\main.cpp
+	<iostream>
+	"game.h"
+
+1682100883 source:c:\users\noski\desktop\snake-official — kopia\snake\map.cpp
+	"map.h"
+
+1682100036 source:c:\users\noski\desktop\snake-official — kopia\snake\pyton.cpp
+	"pyton.h"
+
+1682091921 source:c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\coord.cpp
+	"coord.h"
+
+1682102460 c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\coord.h
+	<iostream>
+
+1682104516 source:c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+
+1682103940 c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\game.h
+	"map.h"
+
+1682103406 c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100036 c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1682103856 source:c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\main.cpp
+	<iostream>
+	"game.h"
+
+1682100883 source:c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\map.cpp
+	"map.h"
+
+1682100036 source:c:\users\noski\desktop\snake-official — kopia — kopia (2)\snake\pyton.cpp
+	"pyton.h"
+
+1682091921 source:c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\coord.cpp
+	"coord.h"
+
+1682102460 c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\coord.h
+	<iostream>
+
+1682103856 source:c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\main.cpp
+	<iostream>
+	"game.h"
+
+1682103940 c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\game.h
+	"map.h"
+
+1682103406 c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100036 c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1682104659 source:c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\map.cpp
+	"map.h"
+
+1682100036 source:c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\pyton.cpp
+	"pyton.h"
+
+1682106148 source:c:\users\noski\desktop\snake-official — kopia — kopia (2) — kopia\snake\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+
+1682091921 source:c:\users\noski\desktop\snake_official\snake\coord.cpp
+	"coord.h"
+
+1682102460 c:\users\noski\desktop\snake_official\snake\coord.h
+	<iostream>
+
+1682114958 source:c:\users\noski\desktop\snake_official\snake\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+	<chrono>
+	<thread>
+
+1682121360 c:\users\noski\desktop\snake_official\snake\game.h
+	"map.h"
+
+1682103406 c:\users\noski\desktop\snake_official\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100036 c:\users\noski\desktop\snake_official\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1682121347 source:c:\users\noski\desktop\snake_official\snake\main.cpp
+	<iostream>
+	"gametxt.h"
+
+1682104659 source:c:\users\noski\desktop\snake_official\snake\map.cpp
+	"map.h"
+
+1682100036 source:c:\users\noski\desktop\snake_official\snake\pyton.cpp
+	"pyton.h"
+
+1682121404 c:\users\noski\desktop\snake_official\snake\gametxt.h
+	"game.h"
+
+1682091921 source:c:\users\noski\desktop\obiektówka - official\snake_official\snake\coord.cpp
+	"coord.h"
+
+1682102460 c:\users\noski\desktop\obiektówka - official\snake_official\snake\coord.h
+	<iostream>
+
+1682201370 source:c:\users\noski\desktop\obiektówka - official\snake_official\snake\game.cpp
+	"game.h"
+
+1682121360 c:\users\noski\desktop\obiektówka - official\snake_official\snake\game.h
+	"map.h"
+
+1683245964 c:\users\noski\desktop\obiektówka - official\snake_official\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100036 c:\users\noski\desktop\obiektówka - official\snake_official\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1683053847 source:c:\users\noski\desktop\obiektówka - official\snake_official\snake\main.cpp
+	<iostream>
+	"gametxt.h"
+
+1682201308 c:\users\noski\desktop\obiektówka - official\snake_official\snake\gametxt.h
+	"game.h"
+
+1683244754 source:c:\users\noski\desktop\obiektówka - official\snake_official\snake\map.cpp
+	"map.h"
+
+1683245082 source:c:\users\noski\desktop\obiektówka - official\snake_official\snake\pyton.cpp
+	"pyton.h"
+
+1683244409 source:c:\users\noski\desktop\obiektówka - official\snake_official\snake\gametxt.cpp
+	"gametxt.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+	<chrono>
+	<thread>
+
+1682091922 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\coord.cpp
+	"coord.h"
+
+1682102462 d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\coord.h
+	<iostream>
+
+1682201372 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\game.cpp
+	"game.h"
+
+1682121362 d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\game.h
+	"map.h"
+
+1683281021 d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100038 d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1683278637 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\gametxt.cpp
+	"gametxt.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+	<chrono>
+	<thread>
+
+1682201310 d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\gametxt.h
+	"game.h"
+
+1683053848 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\main.cpp
+	<iostream>
+	"gametxt.h"
+
+1683246988 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\map.cpp
+	"map.h"
+
+1683245084 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official\snake\pyton.cpp
+	"pyton.h"
+
+1682091922 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\coord.cpp
+	"coord.h"
+
+1682102462 d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\coord.h
+	<iostream>
+
+1682201372 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\game.cpp
+	"game.h"
+
+1682121362 d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\game.h
+	"map.h"
+
+1683283141 d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100038 d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1683053848 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\main.cpp
+	<iostream>
+	"gametxt.h"
+
+1683283237 d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\gametxt.h
+	"game.h"
+	"map.h"
+
+1683245084 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\pyton.cpp
+	"pyton.h"
+
+1683283403 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\map.cpp
+	"map.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+	<chrono>
+	<thread>
+
+1683283313 source:d:\users\ul0265687\desktop\obiektówka - official\snake_official — kopia\snake\gametxt.cpp
+	"gametxt.h"
+	"map.h"
+
+1682091922 source:c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\coord.cpp
+	"coord.h"
+
+1683401407 c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\coord.h
+	<iostream>
+
+1682201372 source:c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\game.cpp
+	"game.h"
+
+1682121362 c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\game.h
+	"map.h"
+
+1683401767 c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\map.h
+	<vector>
+	<windows.h>
+	"coord.h"
+	"pyton.h"
+
+1682100038 c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\pyton.h
+	"coord.h"
+	<deque>
+
+1683283314 source:c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\gametxt.cpp
+	"gametxt.h"
+	"map.h"
+
+1683283238 c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\gametxt.h
+	"game.h"
+	"map.h"
+
+1683053848 source:c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\main.cpp
+	<iostream>
+	"gametxt.h"
+
+1683400671 source:c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\map.cpp
+	"map.h"
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<windows.h>
+	<chrono>
+	<thread>
+
+1683245084 source:c:\users\noski\desktop\obiektówka - official\snake_official — kopia\snake\pyton.cpp
+	"pyton.h"
+
